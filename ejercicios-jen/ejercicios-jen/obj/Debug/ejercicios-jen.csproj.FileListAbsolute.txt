@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\Ejercicios\ejercicios-jen\ejercicios-jen\bin\Debug\ejercicios-jen.exe.config
+C:\Users\LENOVO\Desktop\Ejercicios\ejercicios-jen\ejercicios-jen\bin\Debug\ejercicios-jen.exe
+C:\Users\LENOVO\Desktop\Ejercicios\ejercicios-jen\ejercicios-jen\bin\Debug\ejercicios-jen.pdb
+C:\Users\LENOVO\Desktop\Ejercicios\ejercicios-jen\ejercicios-jen\obj\Debug\ejercicios-jen.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Ejercicios\ejercicios-jen\ejercicios-jen\obj\Debug\ejercicios-jen.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\Ejercicios\ejercicios-jen\ejercicios-jen\obj\Debug\ejercicios-jen.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Ejercicios\ejercicios-jen\ejercicios-jen\obj\Debug\ejercicios-jen.exe
+C:\Users\LENOVO\Desktop\Ejercicios\ejercicios-jen\ejercicios-jen\obj\Debug\ejercicios-jen.pdb

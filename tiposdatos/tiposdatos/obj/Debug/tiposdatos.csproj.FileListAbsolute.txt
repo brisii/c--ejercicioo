@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\Ejercicios\tiposdatos\tiposdatos\bin\Debug\tiposdatos.exe.config
+C:\Users\LENOVO\Desktop\Ejercicios\tiposdatos\tiposdatos\bin\Debug\tiposdatos.exe
+C:\Users\LENOVO\Desktop\Ejercicios\tiposdatos\tiposdatos\bin\Debug\tiposdatos.pdb
+C:\Users\LENOVO\Desktop\Ejercicios\tiposdatos\tiposdatos\obj\Debug\tiposdatos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Ejercicios\tiposdatos\tiposdatos\obj\Debug\tiposdatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\Ejercicios\tiposdatos\tiposdatos\obj\Debug\tiposdatos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Ejercicios\tiposdatos\tiposdatos\obj\Debug\tiposdatos.exe
+C:\Users\LENOVO\Desktop\Ejercicios\tiposdatos\tiposdatos\obj\Debug\tiposdatos.pdb
